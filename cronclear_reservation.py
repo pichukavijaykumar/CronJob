@@ -52,4 +52,4 @@ postgres_data.commit()
 postgres_data.close()
 
 
-# */20 * * * * User\VIJAYKUMAR\Desktop\DjangoProject\glue_stock4.py
+# */20 * * * * User\VIJAYKUMAR\Desktop\CronReservationClear\cronclearreservation1.py
