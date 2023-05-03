@@ -8,8 +8,8 @@ try:
     postgres_data = psycopg2.connect(
         host="localhost",
         database="",
-        user="postgres",
-        password="Vj@13396m042",
+        user="",
+        password="",
         port=5432
     )
 except psycopg2.Error as e:
